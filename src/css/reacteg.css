@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 25px;
-  background-color: white;
+  background-color: aquamarine;
   color: black;
   padding-left: 1cm;
   padding-right: 1cm;
