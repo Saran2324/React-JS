@@ -3,6 +3,7 @@ import './App.css';
 import Test from './Example/reacteg';
 import Propscomp from './Example/propscomp';
 import Myfunction from './functionalcomp';
+import Myclass from './Example/classcomp';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Test/>
       <Propscomp name=" KEC"/>
       <Myfunction name="Sakthivel"/>
+      <Myclass/>
       <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
         <p>
