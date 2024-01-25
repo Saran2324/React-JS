@@ -1,7 +1,8 @@
 import React from "react"
 function Test(){
     return(
-        <p>This is react .</p>
+        <h1>This is react .</h1>
+        
     )
 }
 export default Test;
